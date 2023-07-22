@@ -36,5 +36,8 @@ Once you have the Streamlit  web application up and running, you can perform the
 ## Contributing
 Contributions to this app are welcome! If you have any ideas, suggestions, or bug fixes, please feel free to open an issue or submit a pull request. We appreciate your contributions.
 
+# Note:
+Download the Llama7b Instruct model from HuggingFace Hub put it in the models folder.
+
 
 🎉 Thank you 🤗 Happy question answering! 🌟
