@@ -6,11 +6,6 @@ KnowledgeConnect 🤖 is a web application built using Streamlit 🔥 and the La
 Read More Here 👉
 https://medium.com/@cjsaravana95
 
-# AI Venturer
-```
-Saravana Prakash J
-```
-
 ## Installation
 To run the LangChain web application locally, follow these steps:
 
@@ -38,6 +33,11 @@ Contributions to this app are welcome! If you have any ideas, suggestions, or bu
 
 # Note:
 Download the Llama7b Instruct model from HuggingFace Hub put it in the models folder.
+
+# AI Venturer
+```
+Saravana Prakash J
+```
 
 
 🎉 Thank you 🤗 Happy question answering! 🌟
